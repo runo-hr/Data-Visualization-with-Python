@@ -7,9 +7,20 @@ This repo contains visualizations for different aspects of the following dataset
 
 ## Visualization techniques
 
+### Pandas, Matplotlib, Seaborn, World Cloud 
+
 * [Introduction to Matplotlib and Line Plots](/DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots.jupyterlite.ipynb)  
 * [Area plots, histograms and bar charts](/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts.jupyterlite.ipynb)  
 * [Pie charts, Box plots, Scatter plots and Bubble plots ](/DV0101EN-Exercise-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.jupyterlite.ipynb)  
 * [Waffle Charts, Word Clouds, Regression plots](/DV0101EN-Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb)  
+
+### Geospatial Data | Stamen Toner maps | Stamen Terrain maps | Maps with markers | Choropleth maps
+
 * [Generationg maps with Python](/DV0101EN-Exercise-Generating-Maps-in-Python.jupyterlite.ipynb)  
-* [Basics of plotting with Plotly](/4.3_Plotly_Basics.jupyterlite.ipynb)    
+
+### Plotly | Scatter Plots | Line Plots | Bar Charts | Bubble Plots | Histograms | Pie Charts | Sunburst Charts | Dashboards  
+
+* [Basics of plotting with Plotly](/4.3_Plotly_Basics.jupyterlite.ipynb)  
+* [Dash basics](/dash_basics.py)
+* [Dash Interactivity](/dash_interactivity.py)  
+* [Multiple plots](/flight_details.py)
