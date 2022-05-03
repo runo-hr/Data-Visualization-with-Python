@@ -23,4 +23,8 @@ This repo contains visualizations for different aspects of the following dataset
 * [Basics of plotting with Plotly](/4.3_Plotly_Basics.jupyterlite.ipynb)  
 * [Dash basics](/dash_basics.py)
 * [Dash Interactivity](/dash_interactivity.py)  
-* [Multiple plots](/flight_details.py)
+* [Multiple plots](/flight_details.py)  
+
+### Assignments
+* [Fruits and Cities Dashboard](/dash_fruits.py)
+* [Automobile Prices Dashboard](/dash_auto.py)
