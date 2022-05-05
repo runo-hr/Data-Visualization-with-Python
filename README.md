@@ -7,7 +7,7 @@ This repo contains visualizations for different aspects of the following dataset
 
 ## Visualization techniques
 
-### Pandas, Matplotlib, Seaborn, World Cloud 
+### Pandas, Matplotlib, Seaborn, Word Cloud 
 
 * [Introduction to Matplotlib and Line Plots](/DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots.jupyterlite.ipynb)  
 * [Area plots, histograms and bar charts](/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts.jupyterlite.ipynb)  
